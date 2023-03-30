@@ -22,3 +22,15 @@ public class Vowels {
     System.out.println(arr);
 }
 }
+
+              OUTPUT
+       
+
+sreeja
+geetha
+chandana
+arshi
+sneha
+madhuri
+3
+[[2, 3, 5], [1, 2, 5], [2, 5, 7], [0, 4], [2, 4], [1, 4, 6]]
